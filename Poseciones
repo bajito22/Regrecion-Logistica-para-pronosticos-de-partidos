@@ -1,0 +1,381 @@
+Local,Visitante,Pos.1,Pos.2
+Crystal Palace,Arsenal,56%,44%
+Fulham,Liverpool,33%,67%
+Tottenham,Southampton,58%,42%
+Newcastle Utd,Nott'ham Forest,61%,39%
+Leeds United,Wolves,40%,60%
+Bournemouth,Aston Villa,35%,65%
+Everton,Chelsea,38%,62%
+Leicester City,Brentford,56%,44%
+Manchester Utd,Brighton,62%,38%
+West Ham,Manchester City,25%,75%
+Aston Villa,Everton,57%,43%
+Manchester City,Bournemouth,67%,33%
+Southampton,Leeds United,43%,57%
+Wolves,Fulham,59%,41%
+Arsenal,Leicester City,50%,50%
+Brighton,Newcastle Utd,54%,46%
+Brentford,Manchester Utd,34%,66%
+Nott'ham Forest,West Ham,43%,57%
+Chelsea,Tottenham,63%,37%
+Liverpool,Crystal Palace,72%,28%
+Tottenham,Wolves,50%,50%
+Leicester City,Southampton,62%,38%
+Everton,Nott'ham Forest,49%,51%
+Crystal Palace,Aston Villa,51%,49%
+Fulham,Brentford,43%,57%
+Bournemouth,Arsenal,43%,57%
+Leeds United,Chelsea,39%,61%
+West Ham,Brighton,50%,50%
+Newcastle Utd,Manchester City,31%,69%
+Manchester Utd,Liverpool,30%,70%
+Southampton,Manchester Utd,49%,51%
+Manchester City,Crystal Palace,74%,26%
+Brighton,Leeds United,44%,56%
+Chelsea,Leicester City,45%,55%
+Brentford,Everton,58%,42%
+Liverpool,Bournemouth,69%,31%
+Arsenal,Fulham,71%,29%
+Wolves,Newcastle Utd,37%,63%
+Aston Villa,West Ham,58%,42%
+Nott'ham Forest,Tottenham,55%,45%
+Fulham,Brighton,39%,61%
+Crystal Palace,Brentford,49%,51%
+Southampton,Chelsea,33%,67%
+Leeds United,Everton,69%,31%
+Bournemouth,Wolves,35%,65%
+Manchester City,Nott'ham Forest,74%,26%
+Arsenal,Aston Villa,59%,41%
+West Ham,Tottenham,39%,61%
+Liverpool,Newcastle Utd,72%,28%
+Leicester City,Manchester Utd,53%,47%
+Everton,Liverpool,39%,61%
+Nott'ham Forest,Bournemouth,52%,48%
+Wolves,Southampton,51%,49%
+Newcastle Utd,Crystal Palace,52%,48%
+Brentford,Leeds United,32%,68%
+Tottenham,Fulham,52%,48%
+Chelsea,West Ham,67%,33%
+Aston Villa,Manchester City,29%,71%
+Brighton,Leicester City,53%,47%
+Manchester Utd,Arsenal,40%,60%
+Aston Villa,Southampton,53%,47%
+Nott'ham Forest,Fulham,41%,59%
+Wolves,Manchester City,41%,59%
+Newcastle Utd,Bournemouth,72%,28%
+Tottenham,Leicester City,44%,56%
+Brentford,Arsenal,37%,63%
+Everton,West Ham,53%,47%
+Arsenal,Tottenham,64%,36%
+Southampton,Everton,55%,45%
+Crystal Palace,Chelsea,36%,64%
+Liverpool,Brighton,54%,46%
+Fulham,Newcastle Utd,33%,67%
+Bournemouth,Brentford,42%,58%
+West Ham,Wolves,39%,61%
+Manchester City,Manchester Utd,53%,47%
+Leeds United,Aston Villa,44%,56%
+Leicester City,Nott'ham Forest,51%,49%
+Bournemouth,Leicester City,45%,55%
+Newcastle Utd,Brentford,54%,46%
+Manchester City,Southampton,65%,35%
+Chelsea,Wolves,57%,43%
+Brighton,Tottenham,59%,41%
+West Ham,Fulham,50%,50%
+Crystal Palace,Leeds United,54%,46%
+Arsenal,Liverpool,43%,57%
+Everton,Manchester Utd,40%,60%
+Nott'ham Forest,Aston Villa,40%,60%
+Brentford,Brighton,28%,72%
+Leicester City,Crystal Palace,54%,46%
+Fulham,Bournemouth,69%,31%
+Wolves,Nott'ham Forest,58%,42%
+Tottenham,Everton,62%,38%
+Southampton,West Ham,39%,61%
+Aston Villa,Chelsea,42%,58%
+Leeds United,Arsenal,47%,53%
+Manchester Utd,Newcastle Utd,63%,37%
+Liverpool,Manchester City,37%,63%
+Brighton,Nott'ham Forest,70%,30%
+Crystal Palace,Wolves,51%,49%
+Bournemouth,Southampton,54%,46%
+Brentford,Chelsea,34%,66%
+Liverpool,West Ham,54%,46%
+Newcastle Utd,Everton,49%,51%
+Manchester Utd,Tottenham,52%,48%
+Fulham,Aston Villa,60%,40%
+Leicester City,Leeds United,46%,54%
+Nott'ham Forest,Liverpool,25%,75%
+Everton,Crystal Palace,46%,54%
+Manchester City,Brighton,48%,52%
+Chelsea,Manchester Utd,48%,52%
+Aston Villa,Brentford,45%,55%
+Wolves,Leicester City,60%,40%
+Leeds United,Fulham,57%,43%
+Southampton,Arsenal,41%,59%
+Tottenham,Newcastle Utd,53%,47%
+West Ham,Bournemouth,55%,45%
+Leicester City,Manchester City,36%,64%
+Brentford,Wolves,58%,42%
+Crystal Palace,Southampton,44%,56%
+Newcastle Utd,Aston Villa,59%,41%
+Brighton,Chelsea,41%,59%
+Bournemouth,Tottenham,31%,69%
+Fulham,Everton,56%,44%
+Liverpool,Leeds United,68%,32%
+Arsenal,Nott'ham Forest,69%,31%
+Manchester Utd,West Ham,53%,47%
+Nott'ham Forest,Brentford,48%,52%
+Leeds United,Bournemouth,60%,40%
+Manchester City,Fulham,70%,30%
+Wolves,Brighton,29%,71%
+Everton,Leicester City,49%,51%
+Chelsea,Arsenal,45%,55%
+West Ham,Crystal Palace,42%,58%
+Southampton,Newcastle Utd,55%,45%
+Aston Villa,Manchester Utd,42%,58%
+Tottenham,Liverpool,47%,53%
+Manchester City,Brentford,74%,26%
+Tottenham,Leeds United,55%,45%
+Liverpool,Southampton,60%,40%
+Bournemouth,Everton,36%,64%
+West Ham,Leicester City,54%,46%
+Nott'ham Forest,Crystal Palace,32%,68%
+Newcastle Utd,Chelsea,49%,51%
+Wolves,Arsenal,38%,62%
+Brighton,Aston Villa,65%,35%
+Fulham,Manchester Utd,53%,47%
+Brentford,Tottenham,39%,61%
+Southampton,Brighton,34%,66%
+Leicester City,Newcastle Utd,60%,40%
+Crystal Palace,Fulham,36%,64%
+Everton,Wolves,58%,42%
+Aston Villa,Liverpool,48%,52%
+Arsenal,West Ham,66%,34%
+Chelsea,Bournemouth,60%,40%
+Manchester Utd,Nott'ham Forest,65%,35%
+Leeds United,Manchester City,31%,69%
+West Ham,Brentford,63%,37%
+Liverpool,Leicester City,57%,43%
+Wolves,Manchester Utd,46%,54%
+Newcastle Utd,Leeds United,60%,40%
+Fulham,Southampton,62%,38%
+Manchester City,Everton,74%,26%
+Bournemouth,Crystal Palace,59%,41%
+Brighton,Arsenal,68%,32%
+Tottenham,Aston Villa,59%,41%
+Nott'ham Forest,Chelsea,29%,71%
+Brentford,Liverpool,28%,72%
+Leicester City,Fulham,61%,39%
+Everton,Brighton,49%,51%
+Arsenal,Newcastle Utd,66%,34%
+Manchester Utd,Bournemouth,58%,42%
+Southampton,Nott'ham Forest,63%,37%
+Leeds United,West Ham,62%,38%
+Aston Villa,Wolves,56%,44%
+Crystal Palace,Tottenham,47%,53%
+Chelsea,Manchester City,48%,52%
+Fulham,Chelsea,48%,52%
+Aston Villa,Leeds United,52%,48%
+Manchester Utd,Manchester City,30%,70%
+Everton,Southampton,52%,48%
+Wolves,West Ham,58%,42%
+Nott'ham Forest,Leicester City,39%,61%
+Brighton,Liverpool,61%,39%
+Brentford,Bournemouth,50%,50%
+Chelsea,Crystal Palace,61%,39%
+Newcastle Utd,Fulham,62%,38%
+Tottenham,Arsenal,51%,49%
+Crystal Palace,Manchester Utd,40%,60%
+Manchester City,Tottenham,58%,42%
+Liverpool,Chelsea,48%,52%
+Bournemouth,Nott'ham Forest,43%,57%
+Southampton,Aston Villa,37%,63%
+Leicester City,Brighton,37%,63%
+West Ham,Everton,33%,67%
+Crystal Palace,Newcastle Utd,40%,60%
+Manchester City,Wolves,55%,45%
+Leeds United,Brentford,58%,42%
+Arsenal,Manchester Utd,57%,43%
+Fulham,Tottenham,54%,46%
+Chelsea,Fulham,66%,34%
+Everton,Arsenal,30%,70%
+Aston Villa,Leicester City,62%,38%
+Wolves,Liverpool,41%,59%
+Manchester Utd,Crystal Palace,52%,48%
+Brighton,Bournemouth,71%,29%
+Brentford,Southampton,49%,51%
+Newcastle Utd,West Ham,62%,38%
+Nott'ham Forest,Leeds United,30%,70%
+Tottenham,Manchester City,36%,64%
+Manchester Utd,Leeds United,66%,34%
+West Ham,Chelsea,29%,71%
+Leicester City,Tottenham,49%,51%
+Crystal Palace,Brighton,27%,73%
+Arsenal,Brentford,69%,31%
+Southampton,Wolves,41%,59%
+Fulham,Nott'ham Forest,50%,50%
+Bournemouth,Newcastle Utd,34%,66%
+Leeds United,Manchester Utd,34%,66%
+Manchester City,Aston Villa,67%,33%
+Liverpool,Everton,59%,41%
+Arsenal,Manchester City,63%,37%
+Aston Villa,Arsenal,33%,67%
+Brighton,Fulham,65%,35%
+Nott'ham Forest,Manchester City,27%,73%
+Chelsea,Southampton,62%,38%
+Everton,Leeds United,51%,49%
+Wolves,Bournemouth,68%,32%
+Brentford,Crystal Palace,59%,41%
+Newcastle Utd,Liverpool,38%,62%
+Manchester Utd,Leicester City,57%,43%
+Tottenham,West Ham,57%,43%
+Fulham,Wolves,51%,49%
+Leicester City,Arsenal,35%,65%
+Everton,Aston Villa,47%,53%
+West Ham,Nott'ham Forest,49%,51%
+Leeds United,Southampton,61%,39%
+Bournemouth,Manchester City,35%,66%
+Crystal Palace,Liverpool,37%,63%
+Tottenham,Chelsea,41%,59%
+Arsenal,Everton,73%,27%
+Liverpool,Wolves,57%,43%
+Manchester City,Newcastle Utd,56%,44%
+Arsenal,Bournemouth,79%,21%
+Aston Villa,Crystal Palace,58%,42%
+Chelsea,Leeds United,57%,43%
+Brighton,West Ham,65%,35%
+Wolves,Tottenham,46%,54%
+Southampton,Leicester City,35%,65%
+Nott'ham Forest,Everton,57%,43%
+Liverpool,Manchester Utd,59%,41%
+Brentford,Fulham,37%,63%
+Bournemouth,Liverpool,31%,69%
+Leeds United,Brighton,38%,62%
+Everton,Brentford,33%,67%
+Leicester City,Chelsea,48%,52%
+Tottenham,Nott'ham Forest,55%,45%
+Crystal Palace,Manchester City,33%,67%
+Manchester Utd,Southampton,47%,53%
+Fulham,Arsenal,45%,55%
+West Ham,Aston Villa,41%,59%
+Newcastle Utd,Wolves,43%,57%
+Southampton,Brentford,66%,34%
+Brighton,Crystal Palace,57%,43%
+Nott'ham Forest,Newcastle Utd,39%,61%
+Wolves,Leeds United,65%,35%
+Brentford,Leicester City,53%,47%
+Aston Villa,Bournemouth,56%,44%
+Southampton,Tottenham,51%,49%
+Chelsea,Everton,68%,32%
+Arsenal,Crystal Palace,62%,38%
+Manchester City,Liverpool,68%,32%
+Arsenal,Leeds United,66%,34%
+Nott'ham Forest,Wolves,29%,71%
+Brighton,Brentford,72%,28%
+Crystal Palace,Leicester City,52%,48%
+Bournemouth,Fulham,43%,57%
+Chelsea,Aston Villa,69%,31%
+West Ham,Southampton,43%,57%
+Newcastle Utd,Manchester Utd,46%,54%
+Everton,Tottenham,39%,61%
+Leeds United,Nott'ham Forest,61%,39%
+Bournemouth,Brighton,37%,63%
+Leicester City,Aston Villa,36%,64%
+Chelsea,Liverpool,49%,51%
+West Ham,Newcastle Utd,42%,58%
+Manchester Utd,Brentford,64%,36%
+Manchester Utd,Everton,63%,37%
+Fulham,West Ham,76%,24%
+Aston Villa,Nott'ham Forest,63%,37%
+Leicester City,Bournemouth,51%,49%
+Brentford,Newcastle Utd,42%,58%
+Wolves,Chelsea,38%,62%
+Tottenham,Brighton,35%,65%
+Southampton,Manchester City,27%,73%
+Leeds United,Crystal Palace,48%,52%
+Liverpool,Arsenal,59%,41%
+Aston Villa,Newcastle Utd,52%,48%
+Chelsea,Brighton,43%,57%
+Southampton,Crystal Palace,58%,42%
+Wolves,Brentford,50%,50%
+Tottenham,Bournemouth,58%,42%
+Everton,Fulham,46%,54%
+Manchester City,Leicester City,70%,30%
+West Ham,Arsenal,30%,70%
+Nott'ham Forest,Manchester Utd,32%,68%
+Leeds United,Liverpool,27%,73%
+Arsenal,Southampton,74%,26%
+Fulham,Leeds United,50%,50%
+Crystal Palace,Everton,56%,44%
+Brentford,Aston Villa,44%,56%
+Liverpool,Nott'ham Forest,80%,20%
+Leicester City,Wolves,42%,58%
+Bournemouth,West Ham,64%,36%
+Newcastle Utd,Tottenham,56%,44%
+Wolves,Crystal Palace,41%,59%
+Aston Villa,Fulham,51%,49%
+Leeds United,Leicester City,41%,59%
+Nott'ham Forest,Brighton,26%,74%
+Chelsea,Brentford,71%,29%
+West Ham,Liverpool,28%,72%
+Manchester City,Arsenal,52%,48%
+Everton,Newcastle Utd,40%,60%
+Southampton,Bournemouth,57%,43%
+Tottenham,Manchester Utd,40%,60%
+Crystal Palace,West Ham,59%,41%
+Brighton,Wolves,57%,43%
+Brentford,Nott'ham Forest,68%,32%
+Manchester Utd,Aston Villa,57%,43%
+Bournemouth,Leeds United,42%,58%
+Newcastle Utd,Southampton,63%,37%
+Fulham,Manchester City,38%,62%
+Liverpool,Tottenham,67%,33%
+Leicester City,Everton,54%,46%
+Arsenal,Chelsea,55%,45%
+Liverpool,Fulham,57%,43%
+Manchester City,West Ham,69%,31%
+Brighton,Manchester Utd,59%,41%
+Tottenham,Crystal Palace,56%,44%
+Wolves,Aston Villa,38%,62%
+Bournemouth,Chelsea,35%,65%
+Manchester City,Leeds United,80%,20%
+Liverpool,Brentford,54%,46%
+Newcastle Utd,Arsenal,55%,45%
+West Ham,Manchester Utd,35%,65%
+Fulham,Leicester City,57%,43%
+Brighton,Everton,78%,22%
+Nott'ham Forest,Southampton,36%,64%
+Leeds United,Newcastle Utd,36%,64%
+Aston Villa,Tottenham,48%,52%
+Chelsea,Nott'ham Forest,75%,25%
+Crystal Palace,Bournemouth,59%,41%
+Southampton,Fulham,36%,64%
+Manchester Utd,Wolves,48%,52%
+Everton,Manchester City,37%,63%
+Brentford,West Ham,53%,47%
+Arsenal,Brighton,41%,59%
+Leicester City,Liverpool,34%,66%
+Newcastle Utd,Brighton,35%,65%
+Tottenham,Brentford,61%,39%
+Liverpool,Aston Villa,66%,34%
+Fulham,Crystal Palace,49%,51%
+Bournemouth,Manchester Utd,41%,59%
+Wolves,Everton,52%,48%
+Nott'ham Forest,Arsenal,19%,81%
+West Ham,Leeds United,59%,41%
+Brighton,Southampton,63%,37%
+Manchester City,Chelsea,64%,36%
+Newcastle Utd,Leicester City,77%,23%
+Brighton,Manchester City,40%,60%
+Manchester Utd,Chelsea,42%,58%
+Crystal Palace,Nott'ham Forest,66%,34%
+Chelsea,Newcastle Utd,64%,36%
+Manchester Utd,Fulham,53%,47%
+Arsenal,Wolves,51%,49%
+Southampton,Liverpool,31%,69%
+Everton,Bournemouth,38%,62%
+Leicester City,West Ham,48%,52%
+Aston Villa,Brighton,41%,59%
+Leeds United,Tottenham,52%,48%
+Brentford,Manchester City,35%,65%
